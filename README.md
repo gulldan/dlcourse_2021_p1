@@ -1,2 +1,4 @@
-# dlcourse_2021_p1
-https://stepik.org/course/91157
+# DLSchool
+[Deep Learning (семестр 1, весна 2021): продвинутый поток](https://stepik.org/course/91157)
+
+В репозитории представлены решения домашних заданий.
